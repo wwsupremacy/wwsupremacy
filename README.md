@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @wwsupremacy
-- 👀 estou interessado em tecnologia
+# sobre mim
+-  👋 oii, eu sou @wwsupremacy
+- estou interessado em tecnologia
 - 🌱 estou aprendendo computação
 - 
 <!---
